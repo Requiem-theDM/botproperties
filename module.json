@@ -7,8 +7,8 @@
     "systems": ["dnd5e"], 
     "styles": [], 
     "scripts": ["botproperties.js"], 
-    "manifest": "https://raw.githubusercontent.com/Requiem-theDM/botproperties/main/module.json", 
-    "download": "https://github.com/Requiem-theDM/botproperties/archive/main.zip", 
+    "manifest": "https://raw.githubusercontent.com/Requiem-theDM/botproperties/main/module.json?token=GHSAT0AAAAAACHZ24VZX5STPC2G72VMBMV2ZIKGJUQ", 
+    "download": "https://github.com/Requiem-theDM/botproperties/main/archive.zip", 
     "minimumCoreVersion": "0.7.0", 
     "compatibleCoreVersion": "0.7.9" 
  }
