@@ -1,0 +1,14 @@
+{
+    "name": "botproperties", 
+    "title": "Book of Trials Weapon Properties",
+    "description": "Adds Book of Trials Weapon Properties",
+    "version": "0.1", 
+    "author": "Requiem", 
+    "systems": ["dnd5e"], 
+    "styles": [], 
+    "scripts": ["botproperties.js"], 
+    "manifest": "https://raw.githubusercontent.com/Your-GitHub-Account-Name/AdditionalProperties/main/module.json", 
+    "download": "https://github.com/Your-GitHub-Account-Name/AdditionalProperties/archive/main.zip", 
+    "minimumCoreVersion": "0.7.0", 
+    "compatibleCoreVersion": "0.7.9" 
+ }
