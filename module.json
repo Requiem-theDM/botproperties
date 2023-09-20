@@ -4,9 +4,10 @@
     "description": "Adds Book of Trials Weapon Properties",
     "version": "0.1", 
     "author": "Requiem", 
-    "systems": ["dnd5e"], 
     "styles": [], 
-    "scripts": ["botproperties.js"], 
+    "scripts": [
+	    "botproperties.js"
+    ], 
     "manifest": "https://raw.githubusercontent.com/Requiem-theDM/botproperties/main/module.json", 
     "download": "https://github.com/Requiem-theDM/botproperties/raw/main/botproperties.zip", 
     "compatibility": {
