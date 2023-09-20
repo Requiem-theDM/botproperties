@@ -1,17 +1,21 @@
 {
-    "name": "botproperties", 
+    "id": "botproperties", 
     "title": "Book of Trials Weapon Properties",
     "description": "Adds Book of Trials Weapon Properties",
     "version": "0.1", 
-    "author": "Requiem", 
+    "authors": [
+      { 
+        "name": "Requiem"
+      }
+    ],
     "styles": [], 
     "scripts": [
-	    "botproperties.js"
+      "botproperties.js"
     ], 
     "manifest": "https://raw.githubusercontent.com/Requiem-theDM/botproperties/main/module.json", 
-    "download": "https://github.com/Requiem-theDM/botproperties/raw/main/botproperties.zip", 
+    "download": "https://github.com/Requiem-theDM/botproperties/main/botproperties.zip", 
     "compatibility": {
-		"minimum": "11",
-		"verified": "11.308"
-	}
+		  "minimum": "11",
+		  "verified": "11.308"
+	  }
  }
